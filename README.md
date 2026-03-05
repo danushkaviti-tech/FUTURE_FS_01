@@ -89,8 +89,8 @@ This project was created to:
 ## 📧 Contact
 If you would like to connect or collaborate, feel free to reach out.
 
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
+- GitHub: https://github.com/danushkaviti-tech
+- Email: danushkaviti@gmail.com
 
 ---
 
